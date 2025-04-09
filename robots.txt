@@ -6,3 +6,9 @@ Disallow:
 
 User-agent: Googlebot-Image
 Disallow:
+
+
+
+
+
+Sitemap: https://aniversario-un.desconto-no-curso.com.br/sitemap.xml
